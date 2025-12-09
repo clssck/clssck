@@ -4,28 +4,31 @@
 
   <br />
 
-  <!-- Typing SVG - Corporate Style (Julius Sans One = Sackers Gothic Google Alternative) -->
+  <!-- Typing SVG - Funny/Corporate -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Julius+Sans+One&weight=500&size=22&pause=1000&color=C5A059&center=true&vCenter=true&width=600&lines=ARCHITECTING+DATA+PIPELINES;AUTOMATING+ENTERPRISE+WORKFLOWS;PYTHON+%7C+GO+%7C+RUST" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Julius+Sans+One&weight=600&size=24&pause=1000&color=C5A059&center=true&vCenter=true&width=600&lines=1x+ENGINEER;VEEVA+SURVIVOR;YAML+ARCHITECT;PROD+BREAKER" alt="Typing SVG" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <!-- Tech Stack -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white" alt="Zig" />
-  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <!-- Tech Stack - Uniform "Succession" Gold/Black Theme -->
+  <!-- Row 1: Core -->
+  <img src="https://img.shields.io/badge/Python-C5A059?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=C5A059" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=C5A059" alt="Rust" />
+  <img src="https://img.shields.io/badge/Zig-000000?style=for-the-badge&logo=zig&logoColor=C5A059" alt="Zig" />
   <br/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <!-- Row 2: Web/Scripting -->
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=C5A059" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=C5A059" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Wasm-000000?style=for-the-badge&logo=webassembly&logoColor=C5A059" alt="WebAssembly" />
+  <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=C5A059" alt="R" />
   <br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <!-- Row 3: Infra -->
+  <img src="https://img.shields.io/badge/Postgres-000000?style=for-the-badge&logo=postgresql&logoColor=C5A059" alt="Postgres" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=C5A059" alt="Docker" />
 </div>
 
 <br />
