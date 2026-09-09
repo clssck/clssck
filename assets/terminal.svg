@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">clssck — Engineer</title>
+<desc id="desc">I make annoying things easier. A terminal-inspired banner.</desc>
+<rect width="1200" height="360" rx="16" fill="#0d1117"/>
+<rect x="1" y="1" width="1198" height="358" rx="15" fill="none" stroke="#30363d" stroke-width="2"/>
+<path d="M0 52H1200" stroke="#30363d"/>
+<g fill="#58616d"><circle cx="28" cy="27" r="6"/><circle cx="50" cy="27" r="6"/><circle cx="72" cy="27" r="6"/></g>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<text x="600" y="33" fill="#9da7b3" font-size="16" text-anchor="middle">clssck@github: ~</text>
+<text x="48" y="104" fill="#b9e87b" font-size="20">❯ whoami</text>
+<text x="44" y="195" fill="#f0f6fc" font-size="82" font-weight="700" letter-spacing="-4">clssck<tspan fill="#b9e87b">_</tspan></text>
+<text x="48" y="242" fill="#f0f6fc" font-size="25">Engineer. I make annoying things easier.</text>
+<text x="48" y="313" fill="#9da7b3" font-size="17">DATAIKU / VEEVA / TOOLS THAT SHOULD ALREADY EXIST</text>
+</g>
+<g fill="none" stroke="#b9e87b" stroke-width="2" opacity="0.6"><path d="M1030 117l-42 42 42 42M1090 117l42 42-42 42M1074 102l-28 114"/></g>
+</svg>
